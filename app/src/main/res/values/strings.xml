@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="EmailHint">Email</string>
+    <string name="PasswordHint">Password</string>
+    <string name="ButtonLogin">Login</string>
+    <string name="ButtonSignUp">Sign Up</string>
+    <string name="FirstNameHint">First Name</string>
+    <string name="LastNameHint">Last Name</string>
+    <string name="RepeatPasswordHint">Repeat Password</string>
+    <string name="CancelHint">Cancel</string>
+    <string name="TextViewCurrentThreads">Current Threads</string>
+    <string name="NewThreadText">Add New Thread</string>
+    <string name="MainActivityHeader">Chat Room</string>
+    <string name="SignUpActivityHeader">Sign Up</string>
+    <string name="MessageThreadsActivityHeader">Message Threads</string>
+    <string name="ChatroomActivityHeader">Chatroom</string>
+</resources>
